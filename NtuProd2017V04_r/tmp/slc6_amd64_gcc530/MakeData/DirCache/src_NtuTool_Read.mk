@@ -1,0 +1,2 @@
+ALL_PACKAGES += NtuTool/Read
+subdirs_src_NtuTool_Read := src_NtuTool_Read_interface src_NtuTool_Read_src src_NtuTool_Read_test src_NtuTool_Read_bin

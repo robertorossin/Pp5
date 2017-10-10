@@ -1,0 +1,2 @@
+ALL_PACKAGES += PDAnalysis/Ntu
+subdirs_src_PDAnalysis_Ntu := src_PDAnalysis_Ntu_interface src_PDAnalysis_Ntu_src src_PDAnalysis_Ntu_bin

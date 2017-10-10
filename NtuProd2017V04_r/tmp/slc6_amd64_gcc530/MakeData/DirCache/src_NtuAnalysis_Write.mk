@@ -1,0 +1,2 @@
+ALL_PACKAGES += NtuAnalysis/Write
+subdirs_src_NtuAnalysis_Write := src_NtuAnalysis_Write_src src_NtuAnalysis_Write_plugins

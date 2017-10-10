@@ -1,0 +1,16 @@
+pluginNtuAnalysisWritePlugins.so EvNumFilter CMS%EDM%Framework%Module
+pluginNtuAnalysisWritePlugins.so EvNumFilter CMS%EDM%Framework%ParameterSet%Description
+pluginNtuToolEDMPlugins.so EDMNtupleFilter CMS%EDM%Framework%Module
+pluginNtuToolEDMPlugins.so EDMNtupleFilter CMS%EDM%Framework%ParameterSet%Description
+pluginNtuToolEDMTest.so SimpleEDMWriter CMS%EDM%Framework%Module
+pluginNtuToolEDMTest.so SimpleEDMWriter CMS%EDM%Framework%ParameterSet%Description
+pluginNtuToolEDMTest.so SimpleWriter CMS%EDM%Framework%Module
+pluginNtuToolEDMTest.so SimpleWriter CMS%EDM%Framework%ParameterSet%Description
+pluginNtuToolEDMTest.so TestSimpleTree CMS%EDM%Framework%Module
+pluginNtuToolEDMTest.so TestSimpleTree CMS%EDM%Framework%ParameterSet%Description
+pluginPDAnalysisEDMPlugins.so PDEDMNtuplizer CMS%EDM%Framework%Module
+pluginPDAnalysisEDMPlugins.so PDEDMNtuplizer CMS%EDM%Framework%ParameterSet%Description
+pluginPDAnalysisEDMPlugins.so PDFilter CMS%EDM%Framework%Module
+pluginPDAnalysisEDMPlugins.so PDFilter CMS%EDM%Framework%ParameterSet%Description
+pluginPDAnalysisEDMPlugins.so PDNtuplizer CMS%EDM%Framework%Module
+pluginPDAnalysisEDMPlugins.so PDNtuplizer CMS%EDM%Framework%ParameterSet%Description

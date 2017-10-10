@@ -1,0 +1,55 @@
+tmp/slc6_amd64_gcc530/src/BPHAnalysis/SpecificDecay/test/BPHAnalysisSpecificDecayTest/stubs/TestBPHSpecificDecay.o: \
+ src/BPHAnalysis/SpecificDecay/test/stubs/TestBPHSpecificDecay.cc \
+ src/BPHAnalysis/SpecificDecay/test/stubs/TestBPHSpecificDecay.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHAnalyzerTokenWrapper.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHTrackReference.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoBuilder.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHDecayMomentum.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoCandidatePtr.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHGenericPtr.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHDecayVertex.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHKinematicFit.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoSelect.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoCandidate.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHPlusMinusCandidate.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHPlusMinusVertex.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHPlusMinusCandidatePtr.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHMomentumSelect.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHVertexSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHMuonPtSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHParticlePtSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHMuonEtaSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHParticleEtaSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHParticleNeutralVeto.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHMultiSelect.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHFitSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHMassSelect.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHMassCuts.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHChi2Select.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHOniaToMuMuBuilder.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHKx0ToKPiBuilder.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHPhiToKKBuilder.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHBuToJPsiKBuilder.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHBsToJPsiPhiBuilder.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHBdToJPsiKxBuilder.h \
+ src/BPHAnalysis/SpecificDecay/interface/BPHParticleMasses.h \
+
+tmp/slc6_amd64_gcc530/src/BPHAnalysis/SpecificDecay/test/BPHAnalysisSpecificDecayTest/stubs/CheckBPHWriteDecay.o: \
+ src/BPHAnalysis/SpecificDecay/test/stubs/CheckBPHWriteDecay.cc \
+ src/BPHAnalysis/SpecificDecay/test/stubs/CheckBPHWriteDecay.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHAnalyzerTokenWrapper.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHTrackReference.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoBuilder.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHDecayMomentum.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoCandidatePtr.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHGenericPtr.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHDecayVertex.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHKinematicFit.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoSelect.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHRecoCandidate.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHPlusMinusCandidate.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHPlusMinusVertex.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHPlusMinusCandidatePtr.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHMomentumSelect.h \
+ src/BPHAnalysis/RecoDecay/interface/BPHVertexSelect.h \
+

@@ -1,0 +1,32 @@
+tmp/slc6_amd64_gcc530/src/NtuTool/EDM/test/NtuToolEDMTest/stubs/SimpleWriter.o: \
+ src/NtuTool/EDM/test/stubs/SimpleWriter.cc \
+ src/NtuTool/EDM/test/stubs/SimpleWriter.h \
+ src/NtuTool/Common/test/stubs/SimpleNtuple.h \
+ src/NtuTool/Common/interface/TreeWrapper.h \
+ src/NtuTool/Common/interface/TreeWrapper.hpp \
+ src/NtuTool/Common/interface/TreeTypeNames.h \
+ src/NtuTool/Common/interface/TreeWriter.h \
+ src/NtuTool/EDM/interface/EDAnalyzerWrapper.h \
+
+tmp/slc6_amd64_gcc530/src/NtuTool/EDM/test/NtuToolEDMTest/stubs/TestSimpleTree.o: \
+ src/NtuTool/EDM/test/stubs/TestSimpleTree.cc \
+ src/NtuTool/EDM/test/stubs/TestSimpleTree.h \
+
+tmp/slc6_amd64_gcc530/src/NtuTool/EDM/test/NtuToolEDMTest/stubs/SimpleEDMWriter.o: \
+ src/NtuTool/EDM/test/stubs/SimpleEDMWriter.cc \
+ src/NtuTool/EDM/test/stubs/SimpleEDMWriter.h \
+ src/NtuTool/Common/test/stubs/SimpleNtuple.h \
+ src/NtuTool/Common/interface/TreeWrapper.h \
+ src/NtuTool/Common/interface/TreeWrapper.hpp \
+ src/NtuTool/Common/interface/TreeTypeNames.h \
+ src/NtuTool/EDM/interface/EDMTreeWriter.h \
+ src/NtuTool/EDM/interface/EDProducerWrapper.h \
+
+tmp/slc6_amd64_gcc530/src/NtuTool/EDM/test/NtuToolEDMTest/stubs/SimpleNtuple.o: \
+ src/NtuTool/EDM/test/stubs/SimpleNtuple.cc \
+ src/NtuTool/Common/test/stubs/SimpleNtuple.cc \
+ src/NtuTool/Common/test/stubs/SimpleNtuple.h \
+ src/NtuTool/Common/interface/TreeWrapper.h \
+ src/NtuTool/Common/interface/TreeWrapper.hpp \
+ src/NtuTool/Common/interface/TreeTypeNames.h
+

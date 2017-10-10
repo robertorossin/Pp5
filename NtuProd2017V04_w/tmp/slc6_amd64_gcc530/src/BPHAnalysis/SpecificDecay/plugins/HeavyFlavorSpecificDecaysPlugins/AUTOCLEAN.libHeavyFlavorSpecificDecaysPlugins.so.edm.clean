@@ -1,0 +1,2 @@
+01:/bin/rm -f lib/slc6_amd64_gcc530/pluginHeavyFlavorSpecificDecaysPlugins.so lib/slc6_amd64_gcc530/HeavyFlavorSpecificDecaysPlugins.edmplugin
+90:edmPluginRefresh lib/slc6_amd64_gcc530

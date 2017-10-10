@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=NtuAnalysis
+subdirs_src_NtuAnalysis = src_NtuAnalysis_uty src_NtuAnalysis_Template src_NtuAnalysis_Write src_NtuAnalysis_Read src_NtuAnalysis_Common

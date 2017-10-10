@@ -1,0 +1,2 @@
+ALL_PACKAGES += NtuTool/Common
+subdirs_src_NtuTool_Common := src_NtuTool_Common_interface src_NtuTool_Common_src src_NtuTool_Common_test

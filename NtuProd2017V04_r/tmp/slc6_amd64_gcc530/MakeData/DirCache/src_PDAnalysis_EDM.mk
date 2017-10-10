@@ -1,0 +1,2 @@
+ALL_PACKAGES += PDAnalysis/EDM
+subdirs_src_PDAnalysis_EDM := src_PDAnalysis_EDM_src src_PDAnalysis_EDM_plugins src_PDAnalysis_EDM_bin

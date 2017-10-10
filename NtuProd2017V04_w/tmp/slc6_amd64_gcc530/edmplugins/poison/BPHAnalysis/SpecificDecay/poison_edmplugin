@@ -1,0 +1,4 @@
+plugin-poisoned-HeavyFlavorSpecificDecaysPlugins.so BPHHistoSpecificDecay CMS%EDM%Framework%Module
+plugin-poisoned-HeavyFlavorSpecificDecaysPlugins.so BPHHistoSpecificDecay CMS%EDM%Framework%ParameterSet%Description
+plugin-poisoned-HeavyFlavorSpecificDecaysPlugins.so BPHWriteSpecificDecay CMS%EDM%Framework%Module
+plugin-poisoned-HeavyFlavorSpecificDecaysPlugins.so BPHWriteSpecificDecay CMS%EDM%Framework%ParameterSet%Description

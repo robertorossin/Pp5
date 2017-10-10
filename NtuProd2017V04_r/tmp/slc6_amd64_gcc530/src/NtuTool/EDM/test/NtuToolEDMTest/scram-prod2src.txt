@@ -1,0 +1,1 @@
+NtuToolEDMTest NtuTool/EDM/teststubs/SimpleWriter.cc NtuTool/EDM/teststubs/TestSimpleTree.cc NtuTool/EDM/teststubs/SimpleEDMWriter.cc NtuTool/EDM/teststubs/SimpleNtuple.cc

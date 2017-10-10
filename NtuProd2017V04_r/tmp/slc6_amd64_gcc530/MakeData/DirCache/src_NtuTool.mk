@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=NtuTool
+subdirs_src_NtuTool = src_NtuTool_uty src_NtuTool_Read src_NtuTool_EDM src_NtuTool_Common

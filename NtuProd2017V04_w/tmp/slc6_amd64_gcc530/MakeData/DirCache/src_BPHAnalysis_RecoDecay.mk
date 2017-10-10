@@ -1,0 +1,2 @@
+ALL_PACKAGES += BPHAnalysis/RecoDecay
+subdirs_src_BPHAnalysis_RecoDecay := src_BPHAnalysis_RecoDecay_src src_BPHAnalysis_RecoDecay_test

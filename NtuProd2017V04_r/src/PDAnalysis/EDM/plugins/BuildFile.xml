@@ -1,0 +1,7 @@
+<use   name="FWCore/Framework"/>
+<use   name="NtuAnalysis/Write"/>
+<use   name="PDAnalysis/EDM"/>
+<flags CXXFLAGS="-Wno-delete-non-virtual-dtor"/>
+<library   file="*.cc" name="PDAnalysisEDMPlugins">
+  <flags   EDM_PLUGIN="1"/>
+</library>
